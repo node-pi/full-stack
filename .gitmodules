@@ -1,0 +1,3 @@
+[submodule "nuxt-test-app"]
+	path = nuxt-test-app
+	url = git@github.com:node-pi/nuxt-test-app.git
